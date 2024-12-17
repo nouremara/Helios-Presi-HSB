@@ -1,11 +1,11 @@
 # RoboCup Fußball Simulation 2D – Dokumentation
 
 ## Autoren:
-- **Friederike Korte** (5129793)  
-- **Denis Karlinski** (5155538)  
-- **Tristan Lilienthal** (5058556)  
-- **Nour Ahmed** (5200991)  
-- **Serkay-Günay Celik** (5031519)  
+- **Friederike Korte** (5197)  
+- **Denis Karlinski** (5158)  
+- **Tristan Lilienthal** (8556)  
+- **Nour Ahmed** (5200)  
+- **Serkay-Günay Celik** (1519)  
 
 ### Dozent:
 **Prof. Dr. Förster**
